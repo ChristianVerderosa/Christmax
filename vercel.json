@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/(.*)", "has": [{ "type": "host", "value": "www.christmax.live" }], "destination": "https://christmax.live/$1", "permanent": true }
+  ]
+}

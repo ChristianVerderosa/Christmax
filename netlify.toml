@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://www.christmax.live/*"
+  to = "https://christmax.live/:splat"
+  status = 301
+  force = true
